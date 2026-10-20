@@ -5,10 +5,9 @@
 I enjoy building practical applications, learning new technologies, and
 solving problems through code.
 
-[![GitHub
-followers](https://img.shields.io/github/followers/USERNAME?label=Followers&style=for-the-badge)](https://github.com/USERNAME)
-[![Profile
-views](https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=blue)](https://github.com/USERNAME)
+
+[![GitHub Followers](https://img.shields.io/github/followers/Mkhls19?label=Followers&style=for-the-badge)](https://github.com/Mkhls19)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mkhls19&style=for-the-badge&color=blue)](https://github.com/Mkhls19)
 :::
 
 ------------------------------------------------------------------------
