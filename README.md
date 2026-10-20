@@ -8,7 +8,6 @@ solving problems through code.
 
 [![GitHub Followers](https://img.shields.io/github/followers/Mkhls19?label=Followers&style=for-the-badge)](https://github.com/Mkhls19)
 [![Profile Views](https://komarev.com/ghpvc/?username=Mkhls19&style=for-the-badge&color=blue)](https://github.com/Mkhls19)
-:::
 
 ------------------------------------------------------------------------
 
