@@ -60,7 +60,7 @@ system.
 ## 🤝 Let's Connect
 
 -   **GitHub :** [@Mkhls19](https://github.com/Mkhls19)
--   **LinkedIn :** ......
+-   **LinkedIn :** https://www.linkedin.com/in/muhlisin-m-51a475289/
 -   **Email :** ......
 
 ------------------------------------------------------------------------
